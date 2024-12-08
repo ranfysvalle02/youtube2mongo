@@ -63,7 +63,9 @@ We store the processed transcript chunks in a special database that allows for:
 This storage method uses advanced techniques to understand the context and meaning of the text, not just exact keyword matches.  
    
 #### Why MongoDB?  
-   
+
+![](tlas.png)
+
 To achieve efficient storage and retrieval, we use **MongoDB**, a flexible, document-oriented database. MongoDB allows us to store transcripts and metadata in a way that is both scalable and efficient for search operations.  
    
 **Why choose MongoDB for this task?**  
