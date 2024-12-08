@@ -163,7 +163,10 @@ Parallelization involves dividing a task into smaller sub-tasks that can be exec
   
    ```python  
    import ray  
-   ray.init()  
+   ray.init()
+   ....
+   # Limit to VIDEO_LIMIT videos      
+   videos_to_process = transcript_available_videos[:VIDEO_LIMIT]    
    ```  
    
 2. **Define Remote Functions**  
