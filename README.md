@@ -150,7 +150,9 @@ VIDEO_LIMIT = 50  # Adjust this number based on your system's capacity
 - **Flexibility**: Gives you control over how much data you're working with at any given time.  
    
 ### Demystifying Parallelization in Transcript Processing  
-   
+
+![](https://www.baeldung.com/wp-content/uploads/sites/4/2022/01/vs-1024x462-1.png)
+
 **What Is Parallelization?**  
    
 Parallelization involves dividing a task into smaller sub-tasks that can be executed simultaneously across multiple processors or cores. This approach significantly reduces the total processing time.  
