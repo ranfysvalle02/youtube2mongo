@@ -1,5 +1,5 @@
 
-# Unlocking YouTube: Easily Search and Analyze YouTube videos   
+# Unlocking YouTube: Search and Analyze Videos   
    
 Have you ever wished you could quickly search through the content of your favorite YouTube channels, playlists, or even a set of videos matching a particular topic? Maybe you're looking for that one video where a speaker mentions a specific concept, or perhaps you want to analyze the themes across multiple videos. The good news is, it's possible to make YouTube videos as searchable as text documents!  
    
